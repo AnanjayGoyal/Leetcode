@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnanjayGoyal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnanjayGoyal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/AnanjayGoyal/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -16,4 +17,12 @@
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AnanjayGoyal/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AnanjayGoyal/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
