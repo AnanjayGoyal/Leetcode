@@ -23,6 +23,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnanjayGoyal/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnanjayGoyal/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnanjayGoyal/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0344-reverse-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnanjayGoyal/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnanjayGoyal/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnanjayGoyal/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
