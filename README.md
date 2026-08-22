@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnanjayGoyal/Leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/AnanjayGoyal/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnanjayGoyal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/AnanjayGoyal/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnanjayGoyal/Leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/AnanjayGoyal/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0344-reverse-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnanjayGoyal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -45,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AnanjayGoyal/Leetcode/tree/master/0075-sort-colors) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Simulation
 |  |
@@ -77,4 +80,12 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnanjayGoyal/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnanjayGoyal/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
