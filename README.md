@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/AnanjayGoyal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/AnanjayGoyal/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnanjayGoyal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/AnanjayGoyal/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnanjayGoyal/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Simulation
 |  |
@@ -76,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnanjayGoyal/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -91,4 +94,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnanjayGoyal/Leetcode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
