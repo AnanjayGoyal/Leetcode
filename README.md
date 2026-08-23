@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/AnanjayGoyal/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -57,6 +58,7 @@
 | [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/AnanjayGoyal/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
@@ -86,6 +88,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnanjayGoyal/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -107,12 +110,14 @@
 | ------- |
 | [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/AnanjayGoyal/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -122,12 +127,14 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AnanjayGoyal/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/AnanjayGoyal/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/AnanjayGoyal/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
@@ -157,4 +164,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/AnanjayGoyal/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
