@@ -61,6 +61,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AnanjayGoyal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanjayGoyal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanjayGoyal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -74,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanjayGoyal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnanjayGoyal/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -96,6 +98,7 @@
 | [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnanjayGoyal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanjayGoyal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
