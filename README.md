@@ -78,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AnanjayGoyal/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanjayGoyal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnanjayGoyal/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnanjayGoyal/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -102,6 +103,7 @@
 | [0242-valid-anagram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnanjayGoyal/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanjayGoyal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -133,6 +135,7 @@
 | [0229-majority-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnanjayGoyal/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanjayGoyal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -191,4 +194,8 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanjayGoyal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
