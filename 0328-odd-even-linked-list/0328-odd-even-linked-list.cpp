@@ -4,25 +4,20 @@ public:
         if (head == NULL || head->next == NULL) {
             return head; 
         }
-        
         ListNode* curr = head;
-        int position = 0;  // Track position (1-indexed)
-        
-        // Odd positions list (1st, 3rd, 5th, ...)
+        int position = 1;  // Track position 
+
         ListNode* AHead = NULL;
         ListNode* Atail = NULL;
-        
-        // Even positions list (2nd, 4th, 6th, ...)
         ListNode* BHead = NULL;
         ListNode* Btail = NULL;
         
+        // Split
         while (curr != NULL) {
-            // Split: Save next before breaking
             ListNode* nextnode = curr->next;
             curr->next = NULL;
-            
-            // Process: Check position (not value!)
-            if (position % 2 == 0) {  // Odd position → List A
+            // Process
+            if (position % 2 != 0) {  // Odd position → List A
                 if (AHead == NULL) {
                     AHead = Atail = curr;
                 } else {
@@ -37,16 +32,14 @@ public:
                     Btail = curr;
                 }
             }
-            
             curr = nextnode;
-            position++;  // Increment position for next node
+            position++;  
         }
         
-        // Merge: Connect odd list's tail to even list's head
+        // Merge, Connect odd list's tail to even list's head
         if (Atail != NULL) {
             Atail->next = BHead;
         }
-        
         return (AHead != NULL) ? AHead : BHead;
     }
 };
