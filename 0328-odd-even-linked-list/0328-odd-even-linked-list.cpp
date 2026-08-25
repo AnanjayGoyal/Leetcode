@@ -1,22 +1,12 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
         if (head == NULL || head->next == NULL) {
-            return head;  // Empty or single node
+            return head; 
         }
         
         ListNode* curr = head;
-        int position = 1;  // Track position (1-indexed)
+        int position = 0;  // Track position (1-indexed)
         
         // Odd positions list (1st, 3rd, 5th, ...)
         ListNode* AHead = NULL;
@@ -32,7 +22,7 @@ public:
             curr->next = NULL;
             
             // Process: Check position (not value!)
-            if (position % 2 != 0) {  // Odd position → List A
+            if (position % 2 == 0) {  // Odd position → List A
                 if (AHead == NULL) {
                     AHead = Atail = curr;
                 } else {
