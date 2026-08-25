@@ -53,6 +53,7 @@
 | [0011-container-with-most-water](https://github.com/AnanjayGoyal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AnanjayGoyal/Leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AnanjayGoyal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AnanjayGoyal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/0203-remove-linked-list-elements) |
