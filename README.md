@@ -64,6 +64,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnanjayGoyal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnanjayGoyal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
@@ -255,6 +256,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnanjayGoyal/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -270,4 +272,5 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
