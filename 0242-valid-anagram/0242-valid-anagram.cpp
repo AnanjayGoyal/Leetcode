@@ -7,23 +7,20 @@ public:
 
         unordered_map<char, int> mp;
 
-        // Store frequency of s
-        for(char c : s) {
+        for (char c : s){
             mp[c]++;
         }
 
-        // Match with t
-        for(char c : t) {
-            if(mp.find(c) == mp.end())
-                return false;
+        for (char d : t){
 
-            mp[c]--;
-        }
+            auto it = mp.find(d);
 
-        // Now, all the frequencies have matched, so hahsmap should be empty
-        for(auto it : mp) {
-            if(it.second != 0)
+            if (it != mp.end() && it->second != 0){
+                it->second --;
+            }
+            else {
                 return false;
+            }
         }
         return true;
     }
