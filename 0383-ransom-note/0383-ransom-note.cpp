@@ -11,12 +11,16 @@ public:
 
         // Build ransomNote from the letters of magazine
         for(char c : ransomNote) {
+
             auto it = mp.find(c);
 
-            if(it == mp.end() || it->second == 0) {
+            if (it != mp.end() && it->second != 0){
+                it->second --;
+            }
+            else {
                 return false;
             }
-            it->second--;
+           
         }
         return true;
     }
