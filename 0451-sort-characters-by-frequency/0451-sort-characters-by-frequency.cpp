@@ -1,28 +1,34 @@
-// Repeatedly find Maximum (most) frequent character so use heaps
 class Solution {
 public:
+    // Sort by frequency: highest frequency first
+    static bool compare(pair<char, int> a, pair<char, int> b) {
+        return a.second > b.second;
+    }
+
     string frequencySort(string s) {
-        // Count frequency
-        unordered_map<char, int> freq;
-        for (char ch : s)
-            freq[ch]++;
+        unordered_map<char, int> mp;
+        for (char ch : s) {
+            mp[ch]++;
+        }
+        // Sorting the HashMap
+        vector<pair<char, int>> v;
 
-        // Max Heap, {frequency, character}
-        priority_queue<pair<int, char>> pq;
+        for (auto it : mp) {
+            v.push_back({it.first, it.second});
+        }
+        sort(v.begin(), v.end(), compare);
 
-        // Put {frequency, character} into heap
-        for (auto [ch, count] : freq)
-            pq.push({count, ch});
+        // Building answer
+        string ans = "";
 
-        string ans;
-        while (!pq.empty()) {
+        for (auto it : v) {
 
-            int count = pq.top().first;
-            char ch = pq.top().second;
-            pq.pop();
+            char ch = it.first;
+            int frequency = it.second;
 
-            while (count--)
+            for (int i = 0; i < frequency; i++) {
                 ans += ch;
+            }
         }
         return ans;
     }
