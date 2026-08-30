@@ -35,6 +35,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnanjayGoyal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnanjayGoyal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
@@ -177,6 +178,7 @@
 | [1512-number-of-good-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnanjayGoyal/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [1512-number-of-good-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnanjayGoyal/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
