@@ -40,6 +40,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnanjayGoyal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnanjayGoyal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/AnanjayGoyal/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnanjayGoyal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnanjayGoyal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/AnanjayGoyal/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanjayGoyal/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnanjayGoyal/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/AnanjayGoyal/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Math
 |  |
 | ------- |
@@ -343,4 +346,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanjayGoyal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/AnanjayGoyal/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
