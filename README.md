@@ -39,6 +39,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanjayGoyal/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnanjayGoyal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnanjayGoyal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanjayGoyal/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnanjayGoyal/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanjayGoyal/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnanjayGoyal/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
