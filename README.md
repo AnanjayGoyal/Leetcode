@@ -34,6 +34,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnanjayGoyal/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnanjayGoyal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnanjayGoyal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
@@ -173,6 +174,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanjayGoyal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0819-most-common-word](https://github.com/AnanjayGoyal/Leetcode/tree/master/0819-most-common-word) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
