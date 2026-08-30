@@ -125,6 +125,7 @@
 | [0819-most-common-word](https://github.com/AnanjayGoyal/Leetcode/tree/master/0819-most-common-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnanjayGoyal/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnanjayGoyal/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnanjayGoyal/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnanjayGoyal/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnanjayGoyal/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
