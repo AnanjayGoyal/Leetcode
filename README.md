@@ -30,6 +30,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/AnanjayGoyal/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanjayGoyal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnanjayGoyal/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnanjayGoyal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -169,6 +170,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnanjayGoyal/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanjayGoyal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AnanjayGoyal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AnanjayGoyal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/AnanjayGoyal/Leetcode/tree/master/0819-most-common-word) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
