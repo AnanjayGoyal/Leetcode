@@ -36,6 +36,7 @@
 | [1512-number-of-good-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AnanjayGoyal/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnanjayGoyal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnanjayGoyal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
@@ -127,6 +128,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnanjayGoyal/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnanjayGoyal/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnanjayGoyal/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AnanjayGoyal/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnanjayGoyal/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AnanjayGoyal/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 | [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnanjayGoyal/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AnanjayGoyal/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
