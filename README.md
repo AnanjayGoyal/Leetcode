@@ -42,6 +42,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnanjayGoyal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AnanjayGoyal/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnanjayGoyal/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -197,6 +198,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnanjayGoyal/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/AnanjayGoyal/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2364-count-number-of-bad-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnanjayGoyal/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -207,6 +209,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnanjayGoyal/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2364-count-number-of-bad-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 ## Quicksort
 |  |
 | ------- |
@@ -244,6 +247,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnanjayGoyal/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/AnanjayGoyal/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2364-count-number-of-bad-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
