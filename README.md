@@ -137,6 +137,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnanjayGoyal/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanjayGoyal/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnanjayGoyal/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/AnanjayGoyal/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AnanjayGoyal/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnanjayGoyal/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/AnanjayGoyal/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnanjayGoyal/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Math
@@ -239,6 +241,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AnanjayGoyal/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnanjayGoyal/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/AnanjayGoyal/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -360,4 +363,8 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnanjayGoyal/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/AnanjayGoyal/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
