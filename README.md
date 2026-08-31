@@ -43,6 +43,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AnanjayGoyal/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnanjayGoyal/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
 |  |
@@ -197,6 +198,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/AnanjayGoyal/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnanjayGoyal/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
