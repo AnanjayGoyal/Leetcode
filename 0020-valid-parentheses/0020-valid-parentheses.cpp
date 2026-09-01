@@ -12,7 +12,7 @@ public:
                     return false;
                 }
                 // Correct matching pair, then pop
-                if ((ch == ')' && st.top() == '(') ||
+                else if ((ch == ')' && st.top() == '(') ||
                     (ch == ']' && st.top() == '[') ||
                     (ch == '}' && st.top() == '{')) {
 
