@@ -1,37 +1,25 @@
-// Remove every valid () pair.
-// Whatever parentheses are left are unmatched,
-// and each unmatched parenthesis requires exactly one insertion to match it.
-//
-// Here only circular parentheses are present: '(' and ')'.
-
+// First cancel all the valid pairs i.e. all the (), then there will be some opening brackets left, we need to add exactly those many cloding brackets to make the parenthesis valid, so after canceling all the valid pairs just count the number of opening brackets left.
 class Solution {
 public:
     int minAddToMakeValid(string s) {
         stack<char> st;
 
-        for (char ch : s) {
-
-            if (ch == '(') {
-                st.push(ch);
+        for (char c : s){
+            if (c == '('){
+                st.push(c);
             }
-            else { // ')'
-
-                // If there is an opening '(' available,
-                // match it and remove the pair.
-                if (!st.empty() && st.top() == '(') {
-                    st.pop();
+            else { // c == ')'
+                if (st.empty()){
+                    st.push(c);
                 }
-
-                // No '(' available → this ')' is unmatched.
-                // Keep it because we will need to insert '(' for it.
-                else {
-                    st.push(ch);
+                else if (st.top() == '(') {
+                    st.pop();  // Remove the matching pair
+                }
+                else if (st.top() == ')'){
+                    st.push(c);
                 }
             }
         }
-
-        // Whatever remains is unmatched.
-        // Each one requires exactly one insertion.
         return st.size();
     }
 };
