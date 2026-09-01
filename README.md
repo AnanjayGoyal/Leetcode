@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnanjayGoyal/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/AnanjayGoyal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AnanjayGoyal/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/AnanjayGoyal/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0242-valid-anagram) |
@@ -356,6 +357,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnanjayGoyal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -376,4 +378,8 @@
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/AnanjayGoyal/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnanjayGoyal/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
