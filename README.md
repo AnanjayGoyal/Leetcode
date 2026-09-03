@@ -21,6 +21,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanjayGoyal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0454-4sum-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/AnanjayGoyal/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/AnanjayGoyal/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -185,6 +186,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanjayGoyal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/AnanjayGoyal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/AnanjayGoyal/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -365,6 +367,7 @@
 | [0020-valid-parentheses](https://github.com/AnanjayGoyal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanjayGoyal/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanjayGoyal/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -392,4 +395,8 @@
 | [0020-valid-parentheses](https://github.com/AnanjayGoyal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanjayGoyal/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanjayGoyal/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
