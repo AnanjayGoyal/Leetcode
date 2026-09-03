@@ -26,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/AnanjayGoyal/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0739-daily-temperatures](https://github.com/AnanjayGoyal/Leetcode/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/AnanjayGoyal/Leetcode/tree/master/0819-most-common-word) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -370,6 +371,7 @@
 | [0234-palindrome-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/AnanjayGoyal/Leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanjayGoyal/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanjayGoyal/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -402,4 +404,5 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/AnanjayGoyal/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
