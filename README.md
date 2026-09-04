@@ -137,6 +137,7 @@
 | [0020-valid-parentheses](https://github.com/AnanjayGoyal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AnanjayGoyal/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/AnanjayGoyal/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AnanjayGoyal/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0344-reverse-string) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnanjayGoyal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/AnanjayGoyal/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnanjayGoyal/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -382,6 +384,7 @@
 | [0085-maximal-rectangle](https://github.com/AnanjayGoyal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnanjayGoyal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0503-next-greater-element-ii) |
