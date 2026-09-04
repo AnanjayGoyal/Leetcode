@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/AnanjayGoyal/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AnanjayGoyal/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AnanjayGoyal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnanjayGoyal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -55,6 +56,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AnanjayGoyal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnanjayGoyal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -323,6 +325,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AnanjayGoyal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanjayGoyal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Queue
 |  |
@@ -371,6 +374,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnanjayGoyal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AnanjayGoyal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -408,6 +412,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AnanjayGoyal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AnanjayGoyal/Leetcode/tree/master/0739-daily-temperatures) |
