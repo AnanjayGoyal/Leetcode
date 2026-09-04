@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnanjayGoyal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnanjayGoyal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnanjayGoyal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -223,6 +224,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnanjayGoyal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/AnanjayGoyal/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnanjayGoyal/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -379,6 +381,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AnanjayGoyal/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnanjayGoyal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnanjayGoyal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0503-next-greater-element-ii) |
