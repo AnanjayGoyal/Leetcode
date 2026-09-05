@@ -28,6 +28,7 @@
 | [0503-next-greater-element-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/AnanjayGoyal/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/AnanjayGoyal/Leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/AnanjayGoyal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/AnanjayGoyal/Leetcode/tree/master/0735-asteroid-collision) |
@@ -304,6 +305,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AnanjayGoyal/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnanjayGoyal/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/AnanjayGoyal/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/AnanjayGoyal/Leetcode/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AnanjayGoyal/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/AnanjayGoyal/Leetcode/tree/master/0901-online-stock-span) |
@@ -346,6 +348,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/AnanjayGoyal/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/AnanjayGoyal/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/AnanjayGoyal/Leetcode/tree/master/0641-design-circular-deque) |
 ## Linked List
 |  |
 | ------- |
@@ -364,6 +367,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/AnanjayGoyal/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/AnanjayGoyal/Leetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/AnanjayGoyal/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0876-middle-of-the-linked-list) |
