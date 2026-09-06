@@ -104,6 +104,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnanjayGoyal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/AnanjayGoyal/Leetcode/tree/master/0409-longest-palindrome) |
+| [0649-dota2-senate](https://github.com/AnanjayGoyal/Leetcode/tree/master/0649-dota2-senate) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanjayGoyal/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
@@ -148,6 +149,7 @@
 | [0409-longest-palindrome](https://github.com/AnanjayGoyal/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnanjayGoyal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0649-dota2-senate](https://github.com/AnanjayGoyal/Leetcode/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/AnanjayGoyal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/AnanjayGoyal/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/AnanjayGoyal/Leetcode/tree/master/0819-most-common-word) |
@@ -351,6 +353,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/AnanjayGoyal/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AnanjayGoyal/Leetcode/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/AnanjayGoyal/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/AnanjayGoyal/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
