@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AnanjayGoyal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AnanjayGoyal/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AnanjayGoyal/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AnanjayGoyal/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AnanjayGoyal/Leetcode/tree/master/0075-sort-colors) |
@@ -178,6 +179,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnanjayGoyal/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AnanjayGoyal/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
