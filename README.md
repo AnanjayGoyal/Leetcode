@@ -31,6 +31,7 @@
 | [0641-design-circular-deque](https://github.com/AnanjayGoyal/Leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/AnanjayGoyal/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/AnanjayGoyal/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/AnanjayGoyal/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/AnanjayGoyal/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AnanjayGoyal/Leetcode/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/AnanjayGoyal/Leetcode/tree/master/0819-most-common-word) |
@@ -180,6 +181,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanjayGoyal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0704-binary-search](https://github.com/AnanjayGoyal/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
