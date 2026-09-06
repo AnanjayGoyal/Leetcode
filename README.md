@@ -309,6 +309,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/AnanjayGoyal/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/AnanjayGoyal/Leetcode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/AnanjayGoyal/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/AnanjayGoyal/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -322,6 +323,7 @@
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AnanjayGoyal/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/AnanjayGoyal/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/AnanjayGoyal/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Geometry
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AnanjayGoyal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/AnanjayGoyal/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AnanjayGoyal/Leetcode/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/AnanjayGoyal/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
