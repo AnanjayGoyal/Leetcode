@@ -36,6 +36,7 @@
 | [0819-most-common-word](https://github.com/AnanjayGoyal/Leetcode/tree/master/0819-most-common-word) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnanjayGoyal/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AnanjayGoyal/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/AnanjayGoyal/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1207-unique-number-of-occurrences](https://github.com/AnanjayGoyal/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnanjayGoyal/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -123,6 +124,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AnanjayGoyal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AnanjayGoyal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AnanjayGoyal/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/AnanjayGoyal/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanjayGoyal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AnanjayGoyal/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AnanjayGoyal/Leetcode/tree/master/0735-asteroid-collision) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AnanjayGoyal/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnanjayGoyal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnanjayGoyal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
@@ -355,6 +358,7 @@
 | [0641-design-circular-deque](https://github.com/AnanjayGoyal/Leetcode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/AnanjayGoyal/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/AnanjayGoyal/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AnanjayGoyal/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Linked List
 |  |
 | ------- |
