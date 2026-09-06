@@ -48,6 +48,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnanjayGoyal/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanjayGoyal/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/AnanjayGoyal/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/AnanjayGoyal/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/AnanjayGoyal/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/AnanjayGoyal/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanjayGoyal/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -186,6 +187,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanjayGoyal/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnanjayGoyal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/AnanjayGoyal/Leetcode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/AnanjayGoyal/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
