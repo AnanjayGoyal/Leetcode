@@ -5,7 +5,6 @@ public:
         if (head == NULL || head->next == NULL || k == 0) {
             return head;
         }
-        
         ListNode* curr = head;
         int length = 0;
         while (curr != NULL) {
